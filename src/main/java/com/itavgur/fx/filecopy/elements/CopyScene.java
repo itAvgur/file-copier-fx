@@ -20,7 +20,7 @@ import lombok.Setter;
 public class CopyScene {
 
     private static final double SCENE_WIDTH = 500;
-    private static final double SCENE_HEIGHT = 200;
+    private static final double SCENE_HEIGHT = 250;
     private final PropertiesHolder properties = PropertiesHolder.getInstance();
     private Scene scene;
     private Button copyButton;
